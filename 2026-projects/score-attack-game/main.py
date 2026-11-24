@@ -20,6 +20,7 @@ while n<=14:
     
     except ValueError:
         print("エラー！あなたはバトルに行かされる！")
+        menu=1
 
     if menu==1:
         
